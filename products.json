@@ -1,0 +1,22 @@
+[
+  {
+    "name": "OCD Vac V1",
+    "price": 299,
+    "image": "https://pub-78d37e1978874ab2aeaedd2abd344176.r2.dev/ocdv1.png"
+  },
+  {
+    "name": "OCD Vac V2",
+    "price": 399,
+    "image": "https://pub-78d37e1978874ab2aeaedd2abd344176.r2.dev/ocv2.png"
+  },
+  {
+    "name": "OCD Bot S1",
+    "price": 199,
+    "image": "https://pub-78d37e1978874ab2aeaedd2abd344176.r2.dev/ocdbot11.png"
+  },
+  {
+    "name": "OCD Bot S2",
+    "price": 249,
+    "image": "https://pub-78d37e1978874ab2aeaedd2abd344176.r2.dev/ocdbot111.png"
+  }
+]
